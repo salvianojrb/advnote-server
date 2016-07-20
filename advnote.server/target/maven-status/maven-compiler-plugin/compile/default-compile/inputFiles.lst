@@ -1,0 +1,14 @@
+C:\Applications\advnote.server\src\main\java\com\advnote\server\common\GenericDAO.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\usuario\UsuarioDAO.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\util\Util.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\common\PropertiesManagement.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\config\ConfigDAO.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\config\Config.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\util\AES.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\common\Constants.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\common\MailManagement.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\usuario\Usuario.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\pessoaJuridica\PessoaJuridica.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\pessoaFisica\PessoaFisica.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\common\HibernateUtil.java
+C:\Applications\advnote.server\src\main\java\com\advnote\server\model\pessoa\Pessoa.java

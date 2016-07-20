@@ -1,0 +1,16 @@
+com\advnote\server\common\GenericDAO.class
+com\advnote\server\common\Constants.class
+com\advnote\server\common\GenericDAO$QueryConector.class
+com\advnote\server\common\PropertiesManagement.class
+com\advnote\server\util\Util.class
+com\advnote\server\util\AES.class
+com\advnote\server\model\pessoaFisica\PessoaFisica.class
+com\advnote\server\common\MailManagement$1.class
+com\advnote\server\model\pessoaJuridica\PessoaJuridica.class
+com\advnote\server\common\HibernateUtil.class
+com\advnote\server\model\usuario\UsuarioDAO.class
+com\advnote\server\model\usuario\Usuario.class
+com\advnote\server\model\config\ConfigDAO.class
+com\advnote\server\common\MailManagement.class
+com\advnote\server\model\config\Config.class
+com\advnote\server\model\pessoa\Pessoa.class
