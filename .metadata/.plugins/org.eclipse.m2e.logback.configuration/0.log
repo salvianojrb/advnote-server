@@ -1,5 +1,0 @@
-2016-07-19 22:38:35,711 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: advnote.server:advnote.server:0.0.1-SNAPSHOT @ C:\Users\salvi\Repositorio\advnote.server\pom.xml.
-2016-07-19 22:38:49,160 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2016-07-19 22:38:49,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
-2016-07-19 22:38:49,257 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
-2016-07-19 22:38:49,259 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
